@@ -15,6 +15,7 @@ public class TradingSystem {
             activatePowerPegMode(); 
         }
     }
+	//hoangdat
     private static void activatePowerPegMode() {
         int orders = 0;
         while (true) {
